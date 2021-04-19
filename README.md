@@ -5,7 +5,10 @@ Currently I work as a technical leader at [Nexus](https://nexus.eti.br/) consult
 
 I live in Brazil and work with technology since 2013.
 
-## ⚡ Technologies
+![Linkedin: jauri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauri-da-cruz-junior-a7a810ab/)
+
+
+## ⚡ Technologies & Tools
 
 These are some of the technologies and tools that I work with:
 
@@ -36,5 +39,4 @@ These are some of the technologies and tools that I work with:
 - 🔭 I’m currently working on https://nexus.eti.br/ 
 - 📫 How to reach me: jauriads@gmail.com 
 
-![Profile views](https://gpvc.arturio.dev/jaurijunior)  
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauri-da-cruz-junior-a7a810ab/)](https://www.linkedin.com/in/loiane/)
+![Profile views](https://gpvc.arturio.dev/jaurijunior)
