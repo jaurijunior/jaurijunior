@@ -7,6 +7,8 @@ I live in Brazil and work with technology since 2013.
 
 ![Linkedin: jauri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jauri-da-cruz-junior-a7a810ab/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaurijunior&style=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ⚡ Technologies & Tools
 
