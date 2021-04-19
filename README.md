@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jauri Junior
 #### I am Software Developer
 
-Currently I work as a technical leader at Nexus consulting in information technology, I am a programmer always looking for new technologies.
+Currently I work as a technical leader at [Nexus](https://nexus.eti.br/) consulting in information technology, I am a programmer always looking for new technologies.
 
 I live in Brazil and work with technology since 2013.
 
