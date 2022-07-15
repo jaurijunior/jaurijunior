@@ -35,6 +35,6 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- 📫 How to reach me: jauriads@gmail.com 
+- 📫 How to reach me: jauri.dev@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/jaurijunior)
